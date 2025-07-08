@@ -19,7 +19,7 @@ Ubuntu Server gives you full control, a rich ecosystem, and strong community sup
 ## 🧰 1. Install Ubuntu Server
 
 - **Download** the latest [Ubuntu Server LTS](https://ubuntu.com/download/server) ISO.
-- **Flash the OS** onto your machine using a USB stick. You can follow any good guide like [this YouTube tutorial](#).
+- **Flash the OS** onto your machine using a USB stick. You can follow any good guide like [this YouTube tutorial](https://youtu.be/n7aEcfDNULc?si=eTXHZYjg71VrRUbx).
 
 ---
 
