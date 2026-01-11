@@ -140,6 +140,14 @@ Ubuntu Server gives you full control, a rich ecosystem, and strong community sup
 
 > 🔐 Now SSH will work **only via keys** and on port **3333**, making it harder to brute-force.
 
+
+5. **Connect from another machine:**
+
+   ```bash
+   ssh yourUsername@yourServerIP -p 3333
+   ```
+
+
 ---
 
 ### ⚡ SSH Rate Limiting (Optional, but helps)
