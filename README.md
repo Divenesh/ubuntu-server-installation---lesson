@@ -138,8 +138,6 @@ Ubuntu Server gives you full control, a rich ecosystem, and strong community sup
    sudo systemctl restart ssh
    ```
 
-> 🔐 Now SSH will work **only via keys** and on port **3333**, making it harder to brute-force.
-
 
 5. **Connect from another machine:**
 
@@ -147,6 +145,7 @@ Ubuntu Server gives you full control, a rich ecosystem, and strong community sup
    ssh yourUsername@yourServerIP -p 3333
    ```
 
+> 🔐 Now SSH will work **only via keys** and on port **3333**, making it harder to brute-force.
 
 ---
 
